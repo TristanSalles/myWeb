@@ -27,6 +27,6 @@ build:
         code: |
           $(git clone https://github.com/gcushen/hugo-academic.git themes/academic)
     - arjen/hugo-build:
-        version: "0.17"
+        version: "0.18"
         theme: academic
         flags: --buildDrafts=true
