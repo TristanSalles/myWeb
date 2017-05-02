@@ -1,6 +1,6 @@
 baseurl = "https://TristanSalles.github.io/"
-title = "Tristan Salles"
-copyright = "&copy; 2016 Your Name"
+title = "Research & more..."
+copyright = "&copy; 2017 Tristan Salles"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
