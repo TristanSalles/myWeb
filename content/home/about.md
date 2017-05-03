@@ -19,7 +19,7 @@ weight = 1
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Computational Geosciences"
+  course = "PhD Computational Geosciences"
   institution = "Bordeaux University/IFPEN"
   year = 2006
 
@@ -37,7 +37,7 @@ weight = 1
 
 # Biography
 
-Tristan is a lecturer of Geophysics in the School of Geosiences at the University of Sydney.
+Tristan is a lecturer in Geophysics @ the School of Geosciences in the University of Sydney.
 
 His research fields are in computational geosciences with application areas in sediment transport dynamics, Earth surface evolution, deep time interactions between climate, ocean, and geomorphology.
 
