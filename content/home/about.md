@@ -46,4 +46,6 @@ His research fields are in computational geosciences with application areas in s
 
 He is an expert in quantitative methods based on forward modelling, data query, transformation & visualisation, algorithm design, and parallelism.
 
+<sub>
 [^1]: more Bio: [json](https://registry.jsonresume.org/tsalles) & [LaTeX cv](https://github.com/TristanSalles/CVLatex/blob/master/cv-tristan-salles.pdf)
+</sub>
