@@ -12,14 +12,17 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
-    "Computational geosciences",
-    "Data science",
-    "3D visualisation"
+    "Data Science",
+    "Climate Change",
+    "Earth Surface Modelling",
+    "Coral Reef Evolution",
+    "Computational Geosciences",
+    "3D Visualisation"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD Computational Geosciences"
+  course = "PhD Computational Modelling"
   institution = "Bordeaux University/IFPEN"
   year = 2006
 
