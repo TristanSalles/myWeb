@@ -19,7 +19,7 @@ url_slides = "#"
 url_video = "https://youtu.be/JcxwM7krP0E"
 
 [[url_custom]]
-name = "ResearchGate Link"
+name = "RG"
 url = "https://www.researchgate.net/publication/312047801_Influence_of_mantle_flow_on_the_drainage_of_eastern_Australia_since_the_Jurassic_Period"
 
 # Optional featured image (relative to `static/img/` folder).
