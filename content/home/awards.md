@@ -15,6 +15,6 @@ weight = 70
 +++
 
 - 2017: _Scientific Mobility Fund_, one month visitor scientist as part of the Academia Agreement between Statoil and **University of Bergen** (Norway).
-- 2017: _Scientific Mobility Fund_, one month visitor scientist as part of the Academia Agreement between Statoil and **University of Bergen** (Norway).
-- 2003-2006: _IFPEN top-up scholarship_ (CIFRE), Industry Research grant, ENSPM (France).
-- 2003-2006: _ANRT Scholarship_, French Ministry of Research funding.
+- 2016: _Scientific Mobility Fund_, one month visitor scientist as part of the Academia Agreement between Statoil and **University of Bergen** (Norway).
+- 2003-2006: _IFPEN top-up scholarship_ (CIFRE), Industry Research grant, **ENSPM** (France).
+- 2003-2006: _ANRT Scholarship_, **French Ministry of Research** funding.
