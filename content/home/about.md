@@ -40,8 +40,10 @@ weight = 1
 
 # Biography
 
-Tristan is a lecturer in Geophysics at the School of Geosciences, the University of Sydney.
+Tristan[^1]  is a lecturer in Geophysics at the School of Geosciences, the University of Sydney.
 
 His research fields are in computational geosciences with application areas in sediment transport dynamics, Earth surface evolution, and deep time interactions between climate, ocean & geomorphology.
 
 He is an expert in quantitative methods based on forward modelling, data query, transformation & visualisation, algorithm design, and parallelism.
+
+[^1]: Footnote Bio: [quick online CV](https://registry.jsonresume.org/tsalles) & [LaTeX](https://github.com/TristanSalles/CVLatex/blob/master/cv-tristan-salles.pdf)
