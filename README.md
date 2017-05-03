@@ -21,3 +21,4 @@ git push -u origin master
 These links were pretty useful:
 + [georgecushen blog](https://georgecushen.com/create-your-website-with-hugo/#installing-hugo)
 + [goHugo](http://gohugo.io/tutorials/automated-deployments/)
++ [ryanwalls blog](https://3dsim.github.io/using-hugo-and-wercker-to-create-and-automate-your-own-site/)
