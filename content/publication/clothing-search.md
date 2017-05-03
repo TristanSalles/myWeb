@@ -10,7 +10,7 @@ The model predicts that the Murray river drained eastward between 150 and ∼120
 abstract_short = "Using our geomorphological model (**Badlands**) forced with dynamic topography, we investigate the evolution of australian landscape over the last 150 Ma. The models quantify the time dependence of erosion and deposition, as well as the evolution of catchment dynamics, drainage capture and drainage network reorganisation. "
 authors = ["T Salles", "N. Flament", "D. Müller"]
 date = "2017-01-25"
-image_preview = ""
+image_preview = "g3.jpg"
 math = true
 publication_types = ["2"]
 publication = "Geochemistry, Geophysics, Geosystems"
