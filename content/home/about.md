@@ -29,12 +29,12 @@ weight = 1
 [[education.courses]]
   course = "MEng Physical Oceanography"
   institution = "University of Aix-Marseille II"
-  year = 2009
+  year = 2003
 
 [[education.courses]]
   course = "BSc Ocean Hydrodynamics"
   institution = "Ecole Centrale"
-  year = 2008
+  year = 2003
 
 +++
 

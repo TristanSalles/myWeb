@@ -14,14 +14,16 @@ weight = 60
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
+## B.Sc and M.Sc. teaching experience
 
-I am a teaching instructor for the following courses at University X:
+- Coastal processes & systems, [MARS5001](sydney.edu.au/courses/uos/MARS5001/coastal-processes-and-systems)
+- Coastal Environments & Processes, [GEOS3009](www.geosci.usyd.edu.au/units_of_study/us_geos3009.shtml)
+- Global energy & resources, [GEOS3102](www.geosci.usyd.edu.au/units_of_study/us_geos3102.shtml)
+- Environmental & Sedimentary Geology, [GEOS3103](www.geosci.usyd.edu.au/units_of_study/us_geos3103.shtml)
+- Geophysical methods, [GEOS3104](www.geosci.usyd.edu.au/units_of_study/us_geos3104.shtml)
 
-- CS101: An intro to computer science
-- CS102: An intro to computer science
-- CS103: An intro to computer science
-- CS104: An intro to computer science
-- CS105: An intro to computer science
-- CS106: An intro to computer science
-- CS107: An intro to computer science
+## Post-graduates short courses
+
+- Tectonic Geomorphology, University of Sydney Honours Course (2015 - present)
+- IGC Brisbane 2012 workshop, Practical Stratigraphic Forward Modelling, University of Queensland
+- IAMG San Francisco 2009 workshop, Using Sedsim for Basin exploration, Stanford University
