@@ -37,6 +37,6 @@ weight = 1
 
 # Biography
 
-Tristan Salles is a lecturer of Geophysics at the University of Geosciences.
+Tristan Salles is a lecturer of Geophysics in the School of Geosiences at the University of Sydney.
 
-His research fields are in computational geosciences with application areas in sediment transport dynamics, Earth surface evolution, deep time interactions between climate, ocean, and geomorphology. He is an expert in quantitative methods based on forward modelling, data query, transformation & visualisation, algorithm design, and parallelism implementation. 
+My research fields are in computational geosciences with application areas in sediment transport dynamics, Earth surface evolution, deep time interactions between climate, ocean, and geomorphology. I am an expert in quantitative methods based on forward modelling, data query, transformation & visualisation, algorithm design, and parallelism implementation.
