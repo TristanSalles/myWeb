@@ -2,7 +2,7 @@
 # Docker Hub https://registry.hub.docker.com/_/debian/
 # Read more about containers on our dev center
 # http://devcenter.wercker.com/docs/containers/index.html
-box: debian
+box: golang:latest
 # You can also use services such as databases. Read more on our dev center:
 # http://devcenter.wercker.com/docs/services/index.html
 # services:
@@ -25,16 +25,23 @@ build:
     - script:
         name: download theme
         code: |
+          git submodule init
+          git submodule update --remote --recursive
           $(git clone https://github.com/gcushen/hugo-academic.git themes/academic)
     - arjen/hugo-build:
-        version: "0.18"
+        version: "HEAD"
         theme: academic
         flags: --buildDrafts=true
 deploy:
   steps:
     - install-packages:
         packages: git ssh-client
-    - lukevivier/gh-pages@0.2.1:
-        token: $GIT_TOKEN
-        domain: TristanSalles.github.io
+    #- lukevivier/gh-pages@0.2.1:
+    #    token: $GIT_TOKEN
+    #    domain: TristanSalles.github.io
+    #    basedir: public
+    - leipert/git-push:
+        gh_oauth: $GIT_TOKEN
+        repo: TristanSalles/TristanSalles.github.io
+        branch: master
         basedir: public
