@@ -27,12 +27,12 @@ weight = 1
   year = 2006
 
 [[education.courses]]
-  course = "MEng in Physical Oceanography"
+  course = "MEng Physical Oceanography"
   institution = "University of Aix-Marseille II"
   year = 2009
 
 [[education.courses]]
-  course = "BSc in Ocean Hydrodynamics"
+  course = "BSc Ocean Hydrodynamics"
   institution = "Ecole Centrale"
   year = 2008
 
@@ -40,7 +40,7 @@ weight = 1
 
 # Biography
 
-Tristan is a lecturer in Geophysics @ the School of Geosciences in the University of Sydney.
+Tristan is a lecturer in Geophysics within the School of Geosciences at the University of Sydney.
 
 His research fields are in computational geosciences with application areas in sediment transport dynamics, Earth surface evolution, deep time interactions between climate, ocean, and geomorphology.
 
