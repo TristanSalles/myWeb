@@ -26,7 +26,7 @@ view = 1
   tag = "*"
 
 [[filter]]
-  name = "Geomorphology"
+  name = "Badlands"
   tag = ".badlands"
 
 [[filter]]

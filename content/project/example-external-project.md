@@ -6,7 +6,7 @@ date = "2016-04-27"
 title = "Basin Genesis Hub"
 
 # Project summary to display on homepage.
-summary = "ARC Research Hub for Basin Geodynamics and Evolution of Sedimentary Systems (Basin Genesis Hub) is a showcase of connecting “Big Data” analysis and high-performance computing in an open innovation framework"
+summary = "ARC Research Hub for Basin Geodynamics and Evolution of Sedimentary Systems connecting “Big Data” analysis and HPC in an open innovation framework"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "bgh.jpg"
