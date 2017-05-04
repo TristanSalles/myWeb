@@ -3,7 +3,7 @@ abstract = "The present paper investigates the outcrop-scale architecture of sub
 
 abstract_short = ""
 
-authors = ["T Salles", "G Duclaux"]
+authors = ["S Etienne", "T Mulder", "M Bez", "G Desaubliaux", "A Kwasniewski", "O Parize", "E Dujoncquoy", "T Salles"]
 date = "2012-05-20"
 math = true
 publication_types = ["2"]
@@ -16,6 +16,6 @@ url_pdf = "http://www.sciencedirect.com/science/article/pii/S0037073812001340"
 # Optional featured image (relative to `static/img/` folder).
 [header]
 image = "headers/sedgeo.jpg"
-caption = "Simplified geological sketch of the northern Apennines showing the Neogene–Quaternary basins."
+caption = "Lithofacies and associated sedimentary structures, Annot Sandstones Formation, Eocene–Oligocene, SE France"
 
 +++

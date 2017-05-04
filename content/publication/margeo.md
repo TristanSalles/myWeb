@@ -1,27 +1,24 @@
 +++
-abstract = "In continental environment, sediment mobilisation, dispersion and deposition are mainly controlled by mass gravity and stream-flow processes. Alluvial sedimentary systems have an important economic value because of their capacity to host mineral resources. In the Hamersley Province, alluvial iron deposits (including the well-known Detrital Iron Deposits and Channel Iron Deposits) play an increasing role on the commodity market. Alluvial deposits exploration is challenging and generally involves geomorphologic and stratigraphic field studies, as well as expensive exploratory surface sampling and drilling. We applied a new surface processes modelling technique to investigate iron rich material – i.e. the erosion product of bedded iron formations - dispersion in the Hamersley Province. LECODE is a 3D-parallel surface processes forward modelling code designed to compute surface flow and solve erosion, transport and sedimentation on the geological time scale. The code offers new quantitative ways to better understand how sedimentary deposits develop in intra-continental and channel environments. Here we show that our integrated forward model is capable of opening a window to the construction of sedimentary architectures, including facies distribution, deposit thickness, and development of heterogeneities such as mineral traps over the modelled domain. The model results represent 1 Ma of surface evolution and are validated through comparison to published paleovalleys map and known occurrences of iron ore deposits. This model allows for the first time to track alluvial materials from source to sink through time, test existing geological models and faithfully reproduce the first order distribution of alluvial iron deposits in an area of interest. This technology already demonstrates a strong potential to maximise alluvial iron deposits exploration success, while reducing exploration cost and associated environmental impact."
+abstract = "Delta front ‘fluxoturbidity deposits’ in rift basin margins, as well as sand avalanches, are influenced by topography, water level fluctuation and wave action. Instability of prior sediments deposited on the delta front is a prerequisite for the generation of ‘fluxoturbidity’. In this study Sedsim, a three-dimensional numerical stratigraphic forward model is used to replicate and extend a set of physical flume tank experiments investigating the formation of ‘fluxoturbidites’ from different initial conditions.
+This study has investigated the influence of topographic slope, relative water level change and wave action on the formation of ‘fluxoturbidites’, and hopefully improves our understanding and insight into the dynamic processes of ‘fluxoturbidity’ resulting from different initiation mechanisms. The study also illustrates the value of numerical modelling in complementing and extending physical flume tank studies.
+We show that, at least at the scale of a flume tank, there exists an optimum window of topographic slopes within which ‘fluxoturbidites’ arise due to slumping. This window, ranging from 9  to 18 , may be useful in distinguishing the effects of topographic slope from other ‘fluxoturbidite’ causal mechanisms. The amplitude and frequency of water level oscillation appears to be a significant control on ‘flux- oturbidite’ thickness, while wave attributes, especially wave angles, appear to affect ‘fluxoturbidite’ locality relative to the sediment source."
 
 abstract_short = ""
 
-authors = ["T Salles", "G Duclaux"]
-date = "2014-12-16"
+authors = ["X Huang", "C Dyt", "C Griffiths", "T Salles"]
+date = "2012-02-27"
 image_preview = "epsl.jpg"
 math = true
 publication_types = ["2"]
-publication = "Earth Surface Processes and Landforms"
-publication_short = "ESPL"
+publication = "Marine and Petroleum Geology"
+publication_short = "Marine and Petroleum Geology"
 selected = false
-title = "Combined hillslope diffusion and sediment transport simulation applied to landscape dynamics modelling"
-url_code = "https://github.com/tristan-salles/lecode"
-url_pdf = "http://onlinelibrary.wiley.com/doi/10.1002/esp.3674/abstract"
-
-[[url_custom]]
-name = "RG"
-url = "https://www.researchgate.net/publication/268219941_Combined_hillslope_diffusion_and_sediment_transport_simulation_applied_to_landscape_dynamics_modelling"
+title = "Numerical forward modelling of fluxoturbidite flume experiments using Sedsim"
+url_pdf = "http://www.sciencedirect.com/science/article/pii/S0264817212000505"
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/epsl.jpg"
+image = "headers/margeo.jpg"
 caption = "Simplified geological sketch of the northern Apennines showing the Neogene–Quaternary basins."
 
 +++
