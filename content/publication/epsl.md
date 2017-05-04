@@ -4,7 +4,7 @@ abstract = "We present a new numerical approach for simulating geomorphic and st
 abstract_short = ""
 
 authors = ["T Salles", "G Duclaux"]
-date = "2015-05-13"
+date = "2014-12-16"
 image_preview = "epsl.jpg"
 math = true
 publication_types = ["2"]

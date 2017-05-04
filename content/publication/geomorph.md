@@ -20,7 +20,7 @@ url = "https://www.researchgate.net/publication/274837685_Numerical_modeling_of_
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/epsl.jpg"
+image = "headers/geomorph3.jpg"
 caption = "Simplified geological sketch of the northern Apennines showing the Neogene–Quaternary basins."
 
 +++
