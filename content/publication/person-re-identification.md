@@ -1,22 +1,30 @@
 +++
-abstract = "Person re-identification is a critical security task for recognizing a person across spatially disjoint sensors. Previous work can be computationally intensive and is mainly based on low-level cues extracted from RGB data and implemented on a PC for a fixed sensor network (such as traditional CCTV). We present a practical and efficient framework for mobile devices (such as smart phones and robots) where high-level semantic soft biometrics are extracted from RGB and depth data. By combining these cues, our approach attempts to provide robustness to noise, illumination, and minor variations in clothing. This mobile approach may be particularly useful for the identification of persons in areas ill-served by fixed sensors or for tasks where the sensor position and direction need to dynamically adapt to a target. Results on the BIWI dataset are preliminary but encouraging. Further evaluation and demonstration of the system will be available on our website."
-abstract_short = ""
+abstract = "Over more than three decades, a number of numerical landscape evolution models (LEMs) have been developed to study the combined effects of climate, sea-level, tectonics and sediments on Earth surface dynamics. Most of them are written in efficient programming languages, but often cannot be used on parallel architectures. Here, I present a LEM which ports a common core of accepted physical principles governing landscape evolution into a distributed memory parallel environment. Badlands (acronym for BAsin anD LANdscape DynamicS) is an open-source, flexible, TIN-based landscape evolution model, built to simulate topography development at various space and time scales."
+abstract_short = "Over more than three decades, a number of numerical landscape evolution models (LEMs) have been developed to study the combined effects of climate, sea-level, tectonics and sediments on Earth surface dynamics. Most of them are written in efficient programming languages, but often cannot be used on parallel architectures. Here, I present a LEM which ports a common core of accepted physical principles governing landscape evolution into a distributed memory parallel environment. Badlands (acronym for BAsin anD LANdscape DynamicS) is an open-source, flexible, TIN-based landscape evolution model, built to simulate topography development at various space and time scales."
 authors = ["T Salles"]
-date = "2015-09-01"
-image_preview = ""
+date = "2016-09-01"
+image_preview = "softX.jpg"
 math = true
 publication_types = ["2"]
-publication = "In *Signal Image Technology & Internet Systems (SITIS)*, IEEE."
-publication_short = ""
-selected = false
-title = "A Person Re-Identification System For Mobile Devices"
-url_code = ""
-url_dataset = ""
-url_pdf = "http://arxiv.org/pdf/1512.04133v1"
+publication = "SoftwareX"
+publication_short = "SoftwareX"
+selected = true
+title = "Badlands: A parallel basin and landscape dynamics model"
+url_code = "https://github.com/badlands-model/pyBadlands"
+url_dataset = "https://github.com/badlands-model/pyBadlands-Companion"
+url_pdf = "http://www.sciencedirect.com/science/article/pii/S2352711016300279"
 url_project = "project/deep-learning/"
-url_slides = ""
-url_video = ""
+url_slides = "https://prezi.com/5y1usorz8e8k/badlands-overview/?utm_campaign=share&utm_medium=copy"
+url_video = "https://www.youtube.com/channel/UC3mu0qg-m0gUdbNWQxzuQnw"
+
+[[url_custom]]
+name = "RG"
+url = "https://www.researchgate.net/publication/308929677_Badlands_A_parallel_basin_and_landscape_dynamics_model"
+
 
 +++
 
-More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
+# Optional featured image (relative to `static/img/` folder).
+[header]
+image = "headers/softX.jpg"
+caption = "Badlands landscape evolution model."
