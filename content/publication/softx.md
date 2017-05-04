@@ -3,7 +3,7 @@ abstract = "Over more than three decades, a number of numerical landscape evolut
 abstract_short = "Over more than three decades, a number of numerical landscape evolution models (LEMs) have been developed to study the combined effects of climate, sea-level, tectonics and sediments on Earth surface dynamics. Most of them are written in efficient programming languages, but often cannot be used on parallel architectures. Here, I present a LEM which ports a common core of accepted physical principles governing landscape evolution into a distributed memory parallel environment. Badlands (acronym for BAsin anD LANdscape DynamicS) is an open-source, flexible, TIN-based landscape evolution model, built to simulate topography development at various space and time scales."
 authors = ["T Salles"]
 date = "2016-10-03"
-image_preview = "soft_X.jpg"
+image_preview = "softx1.jpg"
 math = true
 publication_types = ["2"]
 publication = "SoftwareX"
@@ -26,5 +26,5 @@ url = "https://www.researchgate.net/publication/308929677_Badlands_A_parallel_ba
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/softx.jpg"
+image = "headers/softx2.jpg"
 caption = "Badlands landscape evolution model."
