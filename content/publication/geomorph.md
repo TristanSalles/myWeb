@@ -5,7 +5,6 @@ abstract_short = "Within upstream reaches of incised valleys, fluvial sedimentat
 
 authors = ["V Bianchi", "T Salles", "M Ghinassi", "P Billi", "E Dallanave", "G Duclaux"]
 date = "2015-04-17"
-image_preview = "geomorph3.jpg"
 math = true
 publication_types = ["2"]
 publication = "Geomorphology"
@@ -21,7 +20,7 @@ url = "https://www.researchgate.net/publication/274837685_Numerical_modeling_of_
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/geomorph3.jpg"
+image = "headers/epsl.jpg"
 caption = "Simplified geological sketch of the northern Apennines showing the Neogene–Quaternary basins."
 
 +++
