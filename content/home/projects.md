@@ -32,5 +32,9 @@ view = 1
 [[filter]]
   name = "BasinGenesis"
   tag = ".bgh"
+  
+[[filter]]
+  name = "Reef"
+  tag = ".reef"
 
 +++
