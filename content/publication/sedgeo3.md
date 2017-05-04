@@ -3,8 +3,6 @@ abstract = "The Lauzanier area represents the northernmost extension of the Anno
 
 abstract_short = ""
 
-authors = ["V Bianchi", "T Salles", "M Ghinassi", "P Billi", "E Dallanave", "G Duclaux"]
-
 authors = ["T Mulder", "Y Callec", "O Pariz", "P Joseph", "J-L Schneider", "C Robin",  "E Dujoncquoy", "T Salles", "J Allard", "C Bonnel", "E Ducassou", "S Etienne", "B Ferger", "M Gaudin", "V Hanquiez", "F Linares", "E Marches", "S Toucanne", "S Zaragosi"]
 
 date = "2009-09-14"
