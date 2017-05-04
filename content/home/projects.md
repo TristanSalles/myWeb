@@ -30,7 +30,7 @@ view = 1
   tag = ".badlands"
 
 [[filter]]
-  name = "Other"
-  tag = ".demo"
+  name = "BasinGenesis"
+  tag = ".bgh"
 
 +++
