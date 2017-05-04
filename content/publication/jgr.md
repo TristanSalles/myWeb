@@ -1,27 +1,16 @@
 +++
-abstract = "We present a new numerical approach for simulating geomorphic and stratigraphic processes that combines open-channel flow with non-uniform sediment transport law and semi-empirical diffusive mass wasting. It is designed to facilitate modelling of surface processes across multiple space- and time-scales, and under a variety of environmental and tectonic conditions. The physics of open-channel flow is primarily based on an adapted Lagrangian formulation of shallow-water equations. The interaction between flow and surface geology is performed by a non-uniform total-load sediment transport law. Additional hillslope processes are simulated using a semi-empirical method based on a diffusion approach. In the implementation, the resolution of flow dynamics is made on a triangulated grid automatically mapped and adaptively remeshed over a regular orthogonal stratigraphic mesh. These new methods reduce computational time while preserving stability and accuracy of the physical solutions. In order to illustrate the potential of this method for landscape and sedimentary system modelling, we present a set of three generic experiments focusing on assessing the influence of contrasting erodibilities on the evolution of an active bedrock landscape. The modelled ridges morphometrics satisfy established relationships for drainage network geometry and slope distribution, and provide quantitative information on the relative impact of hillslope and channel processes, sediment discharge and alluviation. Our results suggest that contrasting erodibility can stimulate autogenic changes in erosion rate and influence the landscape morphology and preservation. This approach offers new opportunities to investigate joint landscape and sedimentary systems response to external perturbations. The possibility to define and track a large number of materials makes the implementation highly suited to model source-to-sink problems where material dispersion is the key question that needs to be addressed, such as natural resources exploration and basin analysis."
+abstract = "A large number of numerical models have been developed to simulate the physical processes involved in saltation, and, recently to investigate the interaction between soil vegetation cover and aeolian transport. These models are generally constrained to saltation of monodisperse particles while natural saltation occurs over mixed soils. We present a three-dimensional numerical model of steady-state saltation that can simulate aeolian erosion, transport and deposition for unvegetated mixed soils. Our model simulates the motion of saltating particles using a cellular automata algorithm. A simple set of rules is used and takes into account an erosion formula, a transport model, a wind exposition function, and an avalanching process. The model is coupled to the stratigraphic forward model Sedsim that accounts for a larger number of geological processes. The numerical model predicts a wide range of typical dune shapes, which have qualitative correspondence to real systems. The model reproduces the internal structure and composition of the resulting aeolian deposits. It shows the complex formation of dune systems with cross-bedding strata development, bounding surfaces overlaid by fine sediment and inverse grading deposits. We aim to use it to simulate the complex interactions between different sediment transport processes and their resulting geological morphologies."
 
 abstract_short = ""
 
-authors = ["T Salles", "G Duclaux"]
-date = "2014-12-16"
-image_preview = "epsl.jpg"
+authors = ["T Salles", "C Griffiths", "C Dyt"]
+date = "2011-11-01"
 math = true
 publication_types = ["2"]
-publication = "Earth Surface Processes and Landforms"
-publication_short = "ESPL"
+publication = "Journal of Geological Research"
+publication_short = "JGR"
 selected = false
-title = "Combined hillslope diffusion and sediment transport simulation applied to landscape dynamics modelling"
-url_code = "https://github.com/tristan-salles/lecode"
-url_pdf = "http://onlinelibrary.wiley.com/doi/10.1002/esp.3674/abstract"
-
-[[url_custom]]
-name = "RG"
-url = "https://www.researchgate.net/publication/268219941_Combined_hillslope_diffusion_and_sediment_transport_simulation_applied_to_landscape_dynamics_modelling"
-
-# Optional featured image (relative to `static/img/` folder).
-[header]
-image = "headers/epsl.jpg"
-caption = "Simplified geological sketch of the northern Apennines showing the Neogene–Quaternary basins."
+title = "Aeolian Sediment Transport Integration in General Stratigraphic Forward Modeling"
+url_pdf = "https://www.hindawi.com/journals/jgr/2011/186062/"
 
 +++

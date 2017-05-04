@@ -1,27 +1,21 @@
 +++
-abstract = "We present a new numerical approach for simulating geomorphic and stratigraphic processes that combines open-channel flow with non-uniform sediment transport law and semi-empirical diffusive mass wasting. It is designed to facilitate modelling of surface processes across multiple space- and time-scales, and under a variety of environmental and tectonic conditions. The physics of open-channel flow is primarily based on an adapted Lagrangian formulation of shallow-water equations. The interaction between flow and surface geology is performed by a non-uniform total-load sediment transport law. Additional hillslope processes are simulated using a semi-empirical method based on a diffusion approach. In the implementation, the resolution of flow dynamics is made on a triangulated grid automatically mapped and adaptively remeshed over a regular orthogonal stratigraphic mesh. These new methods reduce computational time while preserving stability and accuracy of the physical solutions. In order to illustrate the potential of this method for landscape and sedimentary system modelling, we present a set of three generic experiments focusing on assessing the influence of contrasting erodibilities on the evolution of an active bedrock landscape. The modelled ridges morphometrics satisfy established relationships for drainage network geometry and slope distribution, and provide quantitative information on the relative impact of hillslope and channel processes, sediment discharge and alluviation. Our results suggest that contrasting erodibility can stimulate autogenic changes in erosion rate and influence the landscape morphology and preservation. This approach offers new opportunities to investigate joint landscape and sedimentary systems response to external perturbations. The possibility to define and track a large number of materials makes the implementation highly suited to model source-to-sink problems where material dispersion is the key question that needs to be addressed, such as natural resources exploration and basin analysis."
+abstract = "The margin of the Gulf of Cadiz is swept by an intermediate current the Mediterranean Outflow Water (MOW) flowing from the Mediterranean to the Atlantic. On the northern margin of the Gulf (Algarve Margin, South Portugal) the MOW intensity is low, and fine-grained contourite drifts are built up with an alongslope alignment. Recent sedimentological studies emphasize the presence of complex process interactions resulting in the formation of a unique depositional architecture. Alongslope processes related to contour currents generate contourite drift, while downslope processes form canyons and channels aligned on deep faults. This paper uses a combined oceanographic and geological dataset to simulate the different types of interactions between gravity processes and contour currents, which were evidenced on this margin. An extrapolation of the contour current intensity has been used based on the present day velocity field and sea- level fluctuations over the simulated geological time-scale. According to our model results, the construction of the contourite drift is closely linked to contour current velocities and directions, the types of sediments transported and the existing topography. Using modern sedimentological understanding of the area, we have correlated gravity flow's strongest activity to sea level lowstand periods mainly due to a closer connection between canyon's mouth and river or deltaic systems. The simulated gravity flows are initialized at different locations and times on the margin depending on the preserved lobes retrieved from seismic analysis. Their resulting morphological features are identified as perched-lobes with volumes and forms close to the ones observed on Portimao and Lagos Drifts. This study provides a process-based understanding of the construction of contourite system and a physical evaluation of the interactions between gravity flows perpendicular to the slope, and alongslope processes. In addition, it shows the influence of autocyclic factors in the construction of contourite sedimentation, which is important to consider in future sedimentary paleo- reconstruction interpretations."
 
 abstract_short = ""
 
-authors = ["T Salles", "G Duclaux"]
-date = "2014-12-16"
+authors = ["T Salles", "E Marches", "C Dyt", "C Griffiths", "V Hanquiez", "T Mulder"]
+date = "2009-05-19"
 image_preview = "epsl.jpg"
 math = true
 publication_types = ["2"]
-publication = "Earth Surface Processes and Landforms"
-publication_short = "ESPL"
+publication = "Sedimentary Geology"
+publication_short = "Sedimentary Geology"
 selected = false
-title = "Combined hillslope diffusion and sediment transport simulation applied to landscape dynamics modelling"
-url_code = "https://github.com/tristan-salles/lecode"
+title = "Simulation of the interactions between gravity processes and contour currents on the Algarve Margin (South Portugal) using the stratigraphic forward-model SedSim"
 url_pdf = "http://onlinelibrary.wiley.com/doi/10.1002/esp.3674/abstract"
 
 [[url_custom]]
 name = "RG"
-url = "https://www.researchgate.net/publication/268219941_Combined_hillslope_diffusion_and_sediment_transport_simulation_applied_to_landscape_dynamics_modelling"
-
-# Optional featured image (relative to `static/img/` folder).
-[header]
-image = "headers/epsl.jpg"
-caption = "Simplified geological sketch of the northern Apennines showing the Neogene–Quaternary basins."
+url = "https://www.google.com.au/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=0ahUKEwjhtdSBmNbTAhWJoZQKHfmHAG4QFggtMAE&url=https%3A%2F%2Fwww.researchgate.net%2Fpublication%2F222931867_Simulation_of_the_interactions_between_gravity_processes_and_contour_currents_on_the_Algarve_Margin_South_Portugal_using_the_stratigraphic_forward_model_Sedsim&usg=AFQjCNEEr8jCMtwLPqCrbiyCEYIlGjl6xQ"
 
 +++
