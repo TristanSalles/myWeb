@@ -26,5 +26,5 @@ url = "https://www.researchgate.net/publication/308929677_Badlands_A_parallel_ba
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/softX.jpg"
+image = "headers/softx.jpg"
 caption = "Badlands landscape evolution model."
