@@ -1,6 +1,6 @@
 +++
 # Date this page was created.
-date = "2016-04-27"
+date = "2016-01-27"
 
 # Project title.
 title = "Geomorphology"
@@ -45,18 +45,18 @@ The easiest way to get started is with the [Docker container](https://hub.docker
 If you want to install it yourself, these 2 Dockerfiles ([**dependencies**](https://github.com/badlands-model/pyBadlands-Dependencies-Docker/blob/master/Dockerfile) & [**code**](https://github.com/badlands-model/pyBadlands-Docker-Demo/blob/master/Dockerfile)) are the best documentation of the required packages.
 
 The latest pyBadlands version is the one that’s in our Github [repository](https://github.com/badlands-model/pyBadlands). Get it using this shell command, which requires Git:
-* `git clone https://github.com/badlands-model/pyBadlands.git`
+- `git clone https://github.com/badlands-model/pyBadlands.git`
 
 **API documentation** is available from [http://pybadlands.readthedocs.io](http://pybadlands.readthedocs.io/en/master/)
 
 ## The specs...
 
 The model is based on the following characteristics:
-* The finite volume approach from [**Tucker et al. (2001)**](http://www.sciencedirect.com/science/article/pii/S0098300400001345) based on the dual Delaunay-Voronoi framework is used to solve the continuity equation explicitly,
-* Node ordering is perform efficiently based on the work from [**Braun & Willett (2013)**](http://www.sciencedirect.com/science/article/pii/S0169555X12004618),
-* 3D surface deformations using the node refinement technique proposed by [**Thieulot et al. ( 2014)**](http://onlinelibrary.wiley.com/doi/10.1002/2014GC005490/abstract;jsessionid=48A885F79A40B1E3E76AFC1BEAA2B238.f03t03).
-* Orographic precipitation using [**Smith & Barstad (2004)**](http://journals.ametsoc.org/doi/abs/10.1175/1520-0469(2004)061%3C1377%3AALTOOP%3E2.0.CO%3B2) linear model to compute topographic induced rain field.
-* Varying erodibility layers (both horizontally and vertically) to simulate impact of changing sediment characteristics on landscape evolution.
++ The finite volume approach from [**Tucker et al. (2001)**](http://www.sciencedirect.com/science/article/pii/S0098300400001345) based on the dual Delaunay-Voronoi framework is used to solve the continuity equation explicitly,
++ Node ordering is perform efficiently based on the work from [**Braun & Willett (2013)**](http://www.sciencedirect.com/science/article/pii/S0169555X12004618),
++ 3D surface deformations using the node refinement technique proposed by [**Thieulot et al. ( 2014)**](http://onlinelibrary.wiley.com/doi/10.1002/2014GC005490/abstract;jsessionid=48A885F79A40B1E3E76AFC1BEAA2B238.f03t03).
++ Orographic precipitation using [**Smith & Barstad (2004)**](http://journals.ametsoc.org/doi/abs/10.1175/1520-0469(2004)061%3C1377%3AALTOOP%3E2.0.CO%3B2) linear model to compute topographic induced rain field.
++ Varying erodibility layers (both horizontally and vertically) to simulate impact of changing sediment characteristics on landscape evolution.
 
 A set of functions for _pre_ & _post_-processing of **Badlands** inputs and outputs is available in a GitHub [**Companion**](https://github.com/badlands-model/pyBadlands-Companion) repository which is already shipped with the Badlands Docker container.
 
@@ -73,12 +73,15 @@ You should have received a copy of the GNU Lesser General Public License along w
 Current releases (**DOI** citable):
 
 _Release v1.0.0 :_  
+
 + **[Release 1: badlands-model/pyBadlands](http://doi.org/10.5281/zenodo.160412), Zenodo, doi:10.5281/zenodo.160412, 2016.**
 
 _Release v1.1.0 :_  
+
 + **[Release 2: badlands-model/pyBadlands](http://doi.org/10.5281/zenodo.268053), Zenodo, doi:10.5281/zenodo.268053, 2017.**
 
 _v2.0.0 Release Candidate :_
+
 + The ```master``` branch is a stable version of the code with the most recent developments embedded and is expected to be released as **version 2.0.0**
 
 ### Reporting  
