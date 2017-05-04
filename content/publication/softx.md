@@ -21,10 +21,9 @@ url_video = "https://www.youtube.com/channel/UC3mu0qg-m0gUdbNWQxzuQnw"
 name = "RG"
 url = "https://www.researchgate.net/publication/308929677_Badlands_A_parallel_basin_and_landscape_dynamics_model"
 
-
-+++
-
 # Optional featured image (relative to `static/img/` folder).
 [header]
 image = "headers/softx2.jpg"
 caption = "Badlands landscape evolution model."
+
++++
