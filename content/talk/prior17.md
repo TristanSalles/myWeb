@@ -9,7 +9,7 @@ math = true
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/softx2.jpg"
+image = "headers/talk.jpg"
 +++
 
 # 2017
@@ -81,7 +81,7 @@ image = "headers/softx2.jpg"
 - Salles T., Griffiths C., Dyt C., 2009. Aeolian sediment transport integration in general stratigraphic forward modelling. IAMG Conference, Stanford.
 - Griffiths C., Dyt C., Salles T., 2009. The 2009 Status of SedSim modelling and future plans. IAMG Conference, Stanford.
 - Griffiths C., Salles T., Li F., Dyt C., 2009. Using SedSim to predict the response of coastal sediments to climate change in Australia. Climate Change: The environmental and socio-economic response in the southern Baltic region. Poland.
-- Salles T., 2009. Climate change impact on seabed sediment transport in the Australian exclusive economic zone. Society of Underwater Techonology Annual Conference, Perth.
+- Salles T., 2009. Climate change impact on seabed sediment transport in the Australian exclusive economic zone. Society of Underwater Technology Annual Conference, Perth.
 
 # 2008
 
