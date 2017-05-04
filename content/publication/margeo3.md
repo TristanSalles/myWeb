@@ -1,21 +1,20 @@
 +++
-abstract = "Cellular automata (CA) represent an interesting approach to the modelling of dynamical systems evolving on the basis of local interactions and internal transformations. The CA model, specially developed for simulating density currents, is described. The objective is to predict the formation and evolution of channels and the structure of deposits associated to the flow path. For simulation purposes, currents are represented as a dynamical system subdivided into elementary parts, whose state evolves as a consequence of local interactions and internal transformations within a spatial discrete domain. The model is developed for unsteady, two-dimensional, depth-averaged, particle-laden turbulent underflows driven by gravity, acting on density gradients created by non-uniform and non-cohesive sediment. CA is defined as a tessellation of finite-state automata (cells). The attributes of each cell (substates) describe physical characteristics. The natural phenomenon is decomposed into a number of elementary processes, with a particular composition that makes up the transition function of the CA. By applying this function to all the cells simultaneously, the evolution of the phenomenon can be simulated in terms of modification of the substates. The transition function includes the effects of water incorporation at the suspension–ambient fluid interface, a transport equation for the particle volume concentration, and a toppling rule for the deposited sediments. Simple and flexible, the obtained model constitutes a first step toward quantitative comprehension of the impact of external parameters on the turbidity current dynamics and on the organisation of the subsequent depositional sequences."
+abstract = "A numerical model has been developed to simulate sedimentary architecture resulting from turbidity currents over geological time. The model is based on the cellular automata paradigm. The automata exchange matter and energy and are built in order to reproduce the physical processes which govern turbidity current behavior. The simulated architecture is the result of a given set of geological events. For each of these events a steady state is computed that is assumed to be representative of the average effect of a turbidity current on the construction of the sedimentary architecture. Using model capacities, we reproduce the first sequence of the Lower Pab channel complex formation and a unit of lateral stacked channels of the Angolan deep offshore Girassol field. The model results show that the simulated sedimentary facies distribution is realistic and this may allow a better prediction of the deposits organization in turbiditic systems. Moreover, this model improves stratigraphic modelling resolution and can take over diffusive methods at reservoir scale. The advantages of this numerical approach are a better identification and understanding of deposits heterogeneities and may provide a better representation of the spatial organization, geometry and variability of the geological units that form reservoir architecture in deep-sea clastic systems."
 
 abstract_short = ""
 
-authors = ["T Salles", "S Lopez", "M.C. Cacas", "T Mulder"]
-date = "2006-12-14"
+authors = ["T Salles", "S Lopez", "R Eschard", "O Lerat", "T Mulder", "M.C. Cacas"]
+date = "2007-10-18"
 math = true
 publication_types = ["2"]
-publication = "Geomorphology"
-publication_short = "Geomorphology"
+publication = "Marine Geology"
+publication_short = "Marine Geology"
 selected = false
-title = "Cellular Automata Models of Density Currents"
+title = "Turbidity current modelling on geological time-scales"
 url_pdf = "http://www.sciencedirect.com/science/article/pii/S0169555X06004648"
 
 [[url_custom]]
 name = "RG"
-url = "https://www.researchgate.net/publication/229342841_Cellular_automata_model_of_density_currents"
-
+url = "https://www.researchgate.net/publication/222653497_Turbidity_current_modelling_on_geological_time_scales"
 
 +++

@@ -1,26 +1,21 @@
 +++
-abstract = "Within upstream reaches of incised valleys, fluvial sedimentation occurs where it is controlled by interaction between climate and tectonics. This study focuses on a Plio–Pleistocene fluvial paleovalley, which drained the northeastern margin of Siena basin (northern Apennines, Italy). Valley filling resulted from the interaction between river drainage and active normal faults striking perpendicular and parallel to the main valley. Through numerical modeling, this study aims to refine temporal and spatial mesoscale deposit variations, which highlight the upset of fluvial architectures derived from the interplay between the river system and uplift. Geomorphological and hydrodynamic parameter calibration was performed integrating field studies with paleohydraulic and paleomagnetic data. The numerical model simulates the evolution of valley formation with the development of (i) a pre-tectonic steady state system, followed by (ii) a syntectonic aggradation and avulsion phase, and (iii) a post-tectonic relaxation phase. The syntectonic phase shows fine sediment back-filling upstream of the uplifted area and coarse sediment down-filling downstream of the upwarping. The recorded aggradations are asynchronous with upstream deposition preceding downstream deposition."
+abstract = "Cellular automata (CA) represent an interesting approach to the modelling of dynamical systems evolving on the basis of local interactions and internal transformations. The CA model, specially developed for simulating density currents, is described. The objective is to predict the formation and evolution of channels and the structure of deposits associated to the flow path. For simulation purposes, currents are represented as a dynamical system subdivided into elementary parts, whose state evolves as a consequence of local interactions and internal transformations within a spatial discrete domain. The model is developed for unsteady, two-dimensional, depth-averaged, particle-laden turbulent underflows driven by gravity, acting on density gradients created by non-uniform and non-cohesive sediment. CA is defined as a tessellation of finite-state automata (cells). The attributes of each cell (substates) describe physical characteristics. The natural phenomenon is decomposed into a number of elementary processes, with a particular composition that makes up the transition function of the CA. By applying this function to all the cells simultaneously, the evolution of the phenomenon can be simulated in terms of modification of the substates. The transition function includes the effects of water incorporation at the suspension–ambient fluid interface, a transport equation for the particle volume concentration, and a toppling rule for the deposited sediments. Simple and flexible, the obtained model constitutes a first step toward quantitative comprehension of the impact of external parameters on the turbidity current dynamics and on the organisation of the subsequent depositional sequences."
 
-abstract_short = "Within upstream reaches of incised valleys, fluvial sedimentation occurs where it is controlled by interaction between climate and tectonics. Through numerical modeling, this study aims to refine temporal and spatial mesoscale deposit variations, which highlight the upset of fluvial architectures derived from the interplay between the river system and uplift."
+abstract_short = ""
 
-authors = ["V Bianchi", "T Salles", "M Ghinassi", "P Billi", "E Dallanave", "G Duclaux"]
-date = "2015-04-17"
+authors = ["T Salles", "S Lopez", "M.C. Cacas", "T Mulder"]
+date = "2006-12-14"
 math = true
 publication_types = ["2"]
 publication = "Geomorphology"
 publication_short = "Geomorphology"
 selected = false
-title = "Numerical modelling of tectonically driven river dynamics and deposition in an upland incised valley"
-url_code = "https://github.com/tristan-salles/lecode"
-url_pdf = "http://www.sciencedirect.com/science/article/pii/S0169555X15002044"
+title = "Cellular Automata Models of Density Currents"
+url_pdf = "http://www.sciencedirect.com/science/article/pii/S0169555X06004648"
 
 [[url_custom]]
 name = "RG"
-url = "https://www.researchgate.net/publication/274837685_Numerical_modeling_of_tectonically_driven_river_dynamics_and_deposition_in_an_upland_incised_valley"
+url = "https://www.researchgate.net/publication/229342841_Cellular_automata_model_of_density_currents"
 
-# Optional featured image (relative to `static/img/` folder).
-[header]
-image = "headers/geomorph3.jpg"
-caption = "Simplified geological sketch of the northern Apennines showing the Neogene–Quaternary basins."
 
 +++

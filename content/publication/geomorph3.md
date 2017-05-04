@@ -3,19 +3,19 @@ abstract = "A numerical model has been developed for the simulation of turbidity
 
 abstract_short = ""
 
-authors = ["T Salles", "S Lopez", "R Eschard", "T Mulder", "T Euzen", "M.C. Cacas"]
-
-date = "2008-12-16"
+authors = ["T Salles", "T Mulder", "M Gaudin", "M.C. Cacas", "S Lopez", "P Cirac"]
+date = "2008-05-05"
 math = true
-publication_types = ["6"]
-publication = "External Controls on Deep-Water Depositional Systems: SEPM Special Publication"
-publication_short = "SEPM"
+publication_types = ["2"]
+publication = "Geomorphology"
+publication_short = "Geomorphology"
 selected = false
-title = "A Turbidity Currents Model to Simulate Impact of Basin-Scale Forcing Parameters"
-url_pdf = "http://sp.sepmonline.org/content/sepspecpub/sepsp092/1/SEC23.body.pdf"
+title = "Simulating the 1999 turbidity current occurred in Capbreton canyon through a Cellular Automata model"
+url_pdf = "http://www.sciencedirect.com/science/article/pii/S0169555X06004648"
 
 [[url_custom]]
-name = "GB"
-url = "https://books.google.com.au/books?id=L5DhmSRCk90C&pg=PA363&lpg=PA363&dq=A+Turbidity+Currents+Model+to+Simulate+Impact+of+Basin-Scale+Forcing+Parameters&source=bl&ots=Ud2k3pcped&sig=Y2A9Wuzf9FMniaKsB7KPWghlJJQ&hl=en&sa=X&ved=0ahUKEwiU0oL4n9bTAhUEHpQKHVwQB7AQ6AEINTAD#v=onepage&q=A%20Turbidity%20Currents%20Model%20to%20Simulate%20Impact%20of%20Basin-Scale%20Forcing%20Parameters&f=false"
+name = "RG"
+url = "https://www.researchgate.net/publication/223631822_Simulating_the_1999_Capbreton_canyon_turbidity_current_with_a_Cellular_Automata_model"
+
 
 +++
