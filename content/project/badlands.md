@@ -3,7 +3,7 @@
 date = "2016-01-27"
 
 # Project title.
-title = "Geomorphology"
+title = "Badlands"
 
 # Project summary to display on homepage.
 summary = "Basin and Landscape Dynamics (Badlands) is a parallel TIN-based landscape evolution model, built to simulate topography development at various space and time scales."
@@ -13,7 +13,7 @@ image_preview = "softx0.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["basin-evolution", "landscape-dynamics"]`
-tags = ["deep-learning"]
+tags = ["badlands"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

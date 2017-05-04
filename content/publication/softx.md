@@ -13,7 +13,7 @@ title = "Badlands: A parallel basin and landscape dynamics model"
 url_code = "https://github.com/badlands-model/pyBadlands"
 url_dataset = "https://github.com/badlands-model/pyBadlands-Companion"
 url_pdf = "http://www.sciencedirect.com/science/article/pii/S2352711016300279"
-url_project = "project/deep-learning/"
+url_project = "project/badlands/"
 url_slides = "https://prezi.com/5y1usorz8e8k/badlands-overview/?utm_campaign=share&utm_medium=copy"
 url_video = "https://www.youtube.com/channel/UC3mu0qg-m0gUdbNWQxzuQnw"
 

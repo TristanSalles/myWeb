@@ -14,7 +14,7 @@ title = "Influence of mantle flow on the drainage of eastern Australia since the
 url_code = "https://github.com/badlands-model/pyBadlands"
 url_dataset = "https://github.com/badlands-model/g-cubed-2016"
 url_pdf = "http://onlinelibrary.wiley.com/doi/10.1002/2016GC006617/abstract"
-url_project = "project/deep-learning/"
+url_project = "project/badlands/"
 # url_slides = "#"
 url_video = "https://youtu.be/JcxwM7krP0E"
 
