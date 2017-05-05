@@ -30,9 +30,13 @@ view = 1
   tag = ".badlands"
 
 [[filter]]
+  name = "Sediment"
+  tag = ".calcsand"
+
+[[filter]]
   name = "BasinGenesis"
   tag = ".bgh"
-  
+
 [[filter]]
   name = "Reef"
   tag = ".reef"
