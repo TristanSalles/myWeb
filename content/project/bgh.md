@@ -1,6 +1,6 @@
 +++
 # Date this page was created.
-date = "2016-04-27"
+date = "2016-02-27"
 
 # Project title.
 title = "Basin Genesis Hub"
@@ -13,7 +13,7 @@ image_preview = "bgh.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["badlands"]
+tags = ["bgh"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "http://www.geosci.usyd.edu.au/research/re_hub.shtml"
