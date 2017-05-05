@@ -6,7 +6,7 @@ date = "2017-03-01"
 title = "Sediment Transport"
 
 # Project summary to display on homepage.
-summary = "Exploring calcareous sand settling velocity & estimating how it will affect sediment transport for bedload/suspended load using Rouse number."
+summary = "Exploring calcareous sand settling velocity & estimating how it will affect sediment transport for bedload/suspended load using Rouse number"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "calcsand.jpg"
