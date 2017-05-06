@@ -46,4 +46,4 @@ His research fields are in computational geosciences with application areas in s
 
 He is an expert in quantitative methods based on forward modelling, data query, transformation & visualisation, algorithm design, and parallelism.
 ___
-<sub>1. more Bio: [web](https://tristansalles.github.io/jsoncv/resume), [2-pages CV](https://drive.google.com/file/d/0B5Ll4Gai5YJ1eVNJak9Sdk5BRE0/view?usp=sharing) & [full CV](https://drive.google.com/file/d/0B5Ll4Gai5YJ1eVNJak9Sdk5BRE0/view?usp=sharing)</sub>
+<sub>1. more Bio: [Web resume](https://tristansalles.github.io/jsoncv/resume) & [2-pages PDF CV](https://drive.google.com/file/d/0B5Ll4Gai5YJ1dFF6aDZXVFVORXc/view?usp=sharing)</sub>
