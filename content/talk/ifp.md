@@ -10,6 +10,8 @@ event = "Petroleum Systems Modeling Workshop"
 event_url = "http://www.psmworkshop2017.com/Projet/jcms/c_1649596/"
 location = "Paris, France"
 
+url_slides = "https://www.icloud.com/keynote/0KF13Oob3rckOjhBcfEO2yX1A#PRpres"
+
 selected = false
 math = true
 
