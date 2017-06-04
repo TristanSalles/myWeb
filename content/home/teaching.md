@@ -14,6 +14,8 @@ weight = 60
 
 +++
 
+Reflections on my teaching & learning vision for Geosciences are available in my [Teaching Portfolio](https://www.authorea.com/178491/IHpEmkvH1oIefxhDJXcVZg)
+
 Part of my teaching can be found [@ GeosLearn](https://geoslearn.github.io/)
 
 ## B.Sc and M.Sc. teaching experience
